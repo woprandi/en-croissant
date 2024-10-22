@@ -135,6 +135,16 @@ export const en_US = {
     "Home.Card.Puzzle.Desc": "Train your chess skills",
     "Home.Card.Puzzle.Button": "Train",
 
+    "Board.Action.TogglePawnStructureView": "Toggle Pawn Structure View",
+    "Board.Action.TakeSnapshot": "Take Snapshot",
+    "Board.Action.AnalyzeGame": "Analyze game",
+    "Board.Action.PlayFromHere": "Play from here",
+    "Board.Action.ClearDrawings": "Clear Drawings",
+    "Board.Action.EditPosition": "Edit Position",
+    "Board.Action.SavePGN": "Save PGN ({{key}})",
+    "Board.Action.AddGame": "Add Game",
+    "Board.Action.FlipBoard": "Flip Board ({{key}})",
+
     "Board.Tabs.Practice": "Practice",
     "Board.Tabs.Analysis": "Analysis",
     "Board.Tabs.Database": "Database",
@@ -266,6 +276,13 @@ export const en_US = {
     "Errors.InvalidRemainingChecks": "Invalid remaining checks",
     "Errors.InvalidTurn": "Invalid turn",
     "Errors.Unknown": "Unknown error",
+
+    "Fen.Start": "Start",
+    "Fen.Empty": "Empty",
+    "Fen.White": "White",
+    "Fen.Black": "Black",
+    "Fen.WhiteToMove": "White to move",
+    "Fen.BlackToMove": "Black to move",
 
     "Files.Title": "Files",
     "Files.FileType": "File type",
